@@ -48,7 +48,7 @@ void push(char ch)
     {
         top++;
         stack[top] = ch;
-    }
+    }e r
 }
 
 char pop()
@@ -83,7 +83,7 @@ int isEmpty()
     else
         return 0;
 }
-
+ 
 // Output:
 
 // Enter a string: Hello
